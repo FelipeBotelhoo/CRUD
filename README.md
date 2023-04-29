@@ -36,5 +36,6 @@ O projeto ainda não possui um layout completo e está em fase de desenvolviment
 O projeto está em constante evolução e mudanças estão sendo feitas para implementação do padrão MVC.</br>
 Além disso, novas funcionalidades e melhorias no layout estão sendo desenvolvidas.
 </br> </br>
+</br> </br>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Andamento&color=GREEN&style=for-the-badge)
