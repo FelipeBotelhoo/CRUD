@@ -2,7 +2,7 @@
 
 Desenvolvido em PHP com o objetivo de </br> cadastrar, atualizar e excluir  </br>
 usuários, clientes e fornecedores.</br>
-O projeto utiliza o padrão de arquitetura MVC e a conexão com o banco de dados é feita utilizando PDO.
+O projeto utiliza o padrão de arquitetura MVC.
 </br></br>
 ## Instalação*⃣
 Para executar o projeto é necessário seguir os seguintes passos: </br>
